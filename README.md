@@ -21,8 +21,7 @@ Proyek ini dibuat dengan fokus pada clean code, desain minimalis, dan user exper
 https://drive.google.com/drive/folders/1Srmf1-ops65VX33ogfSxYs3JibE7ed2z
 
 ## 🐚 Project berbentuk video dengan link Youtube Channel
-https://youtu.be/15fHdm_8YGM?si=R3IoAP7Z0gCniNav
-
+https://youtu.be/2KHnzidpwQ4?si=lZ-YM_-tQwl96WOn
 
 🙋‍♀️ Tentang Saya
 
